@@ -1,4 +1,4 @@
-defmodule Wwdc16.Mixfile do
+defmodule AppsignalTerminal.Mixfile do
   use Mix.Project
 
   def project do
