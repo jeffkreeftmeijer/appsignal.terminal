@@ -25,7 +25,7 @@ colors = [
   bright_blue: blue |> Color.lighten(0.25),
   bright_magenta: magenta |> Color.lighten(0.25),
   bright_cyan: cyan |> Color.lighten(0.25),
-  bright_white: "FFFFFF" |> Color.from_hexadecimal()
+  bright_white: "F2FBFF" |> Color.from_hexadecimal()
 ]
 
 config :light,
