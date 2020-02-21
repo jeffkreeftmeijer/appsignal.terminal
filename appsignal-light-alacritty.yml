@@ -1,0 +1,23 @@
+# Colors (AppSignal Light)
+colors:
+  primary:
+    background: '0xf2fbff'
+    foreground: '0x313f46'
+  normal:
+    black: '0x313f46'
+    red: '0xc31633'
+    green: '0x4caf4f'
+    yellow: '0xefaa03'
+    blue: '0x0961c4'
+    magenta: '0x8a0c8f'
+    cyan: '0x067c8a'
+    white: '0xb1bfc6'
+  bright:
+    black: '0x4b5960'
+    red: '0xff5673'
+    green: '0x8bef90'
+    yellow: '0xffe943'
+    blue: '0x49a1ff'
+    magenta: '0xca4ccf'
+    cyan: '0x46bcca'
+    white: '0xf2fbff'
